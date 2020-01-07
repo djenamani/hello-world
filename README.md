@@ -1,2 +1,2 @@
 # hello-world
-first hello world repo for demo purpose
+First hello world repo for demo purpose
